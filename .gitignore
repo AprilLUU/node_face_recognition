@@ -5,3 +5,5 @@ test
 node_modules
 person
 match
+script/*
+!script/face_recognition.py
